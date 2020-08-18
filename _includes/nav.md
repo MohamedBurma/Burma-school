@@ -1,7 +1,7 @@
 ***
 
 * [Wellcome](https://code-sudan.github.io/home/)
-* [Week 0](https://www.youtube.com/watch?v=jjqgP9dpD1k/)
+* [Week 0](/)
 
 ***
 
