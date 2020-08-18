@@ -2,7 +2,7 @@
 title: week 0
 ---
 
-# Hello, world!
+# Week 0
 
 <iframe src="https://www.youtube.com/embed/jjqgP9dpD1k"></iframe>
 
