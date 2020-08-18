@@ -1,15 +1,23 @@
 ***
 
-* [CS50 IDE](https://ide.cs50.io/)
-* [CS50 Programmer's Manual](https://man.cs50.io/)
+* [Wellcome](https://ide.cs50.io/)
+* [Week 0](https://man.cs50.io/)
 
 ***
 
-* [Status Page](https://cs50.statuspage.io/)
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
+* [Week 1](https://cs50.statuspage.io/)
+* [Week 2](https://cs50.readthedocs.io/style/c/)
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
+* [Week 3](https://cs50.statuspage.io/)
+* [Week 4](https://cs50.readthedocs.io/style/c/
+
+***
+
+* [Week 5](https://cs50.statuspage.io/)
+* [Week 6](https://cs50.readthedocs.io/style/c/
+***
+
+* [Week 7](https://cs50.statuspage.io/)
+* [Week 5](https://cs50.readthedocs.io/style/c/
