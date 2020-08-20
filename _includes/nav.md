@@ -21,4 +21,4 @@
 ***
 
 * [Week 7](https://cs50.statuspage.io/)
-* [Week 5](https://cs50.readthedocs.io/style/c/)
+* [Week 8](https://cs50.readthedocs.io/style/c/)
