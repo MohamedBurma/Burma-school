@@ -2,7 +2,7 @@
 title: false
 ---
 
-# Hello, world!
+# Code_Sudan 2020
 
 This is code_sudan aims to train Sudanese programmers on the latest technology needed by the labor market, through projects specifically designed for the Sudanese needs.
 
