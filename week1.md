@@ -30,8 +30,11 @@ By 11:59pm on 31 December 2020.
 
 .Try out any of David’s programs from class via Week 1’s source code.
 .If you see any errors when compiling your code with make, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking help50 for help. For instance, if trying to compile hello, and 
-    <div class="alert alert-light">make hello</div>
+    
+    make hello
+    
 is yielding errors, try running
-    <div class="alert alert-light">help50 make hello</div>
+
+    help50 make hello
     
 instead!
