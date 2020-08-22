@@ -5,7 +5,7 @@
 
 ***
 
-* [Week 1](https://cs50.statuspage.io/)
+* [Week 1](https://code-sudan.github.io/home/week1)
 * [Week 2](https://cs50.readthedocs.io/style/c/)
 
 ***
