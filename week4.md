@@ -9,7 +9,7 @@ title: week 4
 **What to Do**
 
     1.Submit one of: 
-        .this version of Filter if feeling less [comfortable](http://google.com) comfortable
+        .this version of Filter if feeling less <a href="http://google.com"> comfortable</a>
         .this version of Filter if feeling more comfortable
     2.Submit Recover
         
