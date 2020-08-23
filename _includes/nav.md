@@ -10,15 +10,15 @@
 
 ***
 
-* [Week 3](https://cs50.statuspage.io/)
-* [Week 4](https://cs50.readthedocs.io/style/c/)
+* [Week 3](https://code-sudan.github.io/home/week3/)
+* [Week 4](https://code-sudan.github.io/home/week4/)
 
 ***
 
-* [Week 5](https://cs50.statuspage.io/)
-* [Week 6](https://cs50.readthedocs.io/style/c/)
+* [Week 5](https://code-sudan.github.io/home/week5/)
+* [Week 6](https://code-sudan.github.io/home/week6/)
 
 ***
 
-* [Week 7](https://cs50.statuspage.io/)
-* [Week 8](https://cs50.readthedocs.io/style/c/)
+* [Week 7](https://code-sudan.github.io/home/week7/)
+* [Week 8](https://code-sudan.github.io/home/week8/)
