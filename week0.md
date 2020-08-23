@@ -10,7 +10,7 @@ title: week 0
 
 **What to Do**
 
-    1.Download and install the latest version of [a link](https://github.com/user/repo/blob/branch/other_file.md)Chrome, if you don’t have it already.
+    1.Download and install the latest version of Chrome, if you don’t have it already.
     2.Implement your very own Scratch project using Chrome, per this specification.
 
 **When to Do It**
