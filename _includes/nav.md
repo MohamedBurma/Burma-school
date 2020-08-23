@@ -1,6 +1,6 @@
 ***
 
-* [Wellcome](https://code-sudan.github.io/home/)
+* [We teach you the way to code](https://code-sudan.github.io/home/)
 * [Week 0](https://code-sudan.github.io/home/week0/)
 
 ***
