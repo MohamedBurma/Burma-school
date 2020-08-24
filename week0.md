@@ -16,7 +16,7 @@ title: week 0
     6.Pseudocode
     7.Scratch
 
-**Try it in Arabic **
+**Try it in Arabic**
 
 [CS50 2019 Lecture 0 Computational Thinking, Scratch مترجم](https://www.youtube.com/embed/tC8z4RLWtFI)
 
