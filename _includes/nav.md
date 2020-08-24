@@ -1,4 +1,3 @@
-<div style="background-color: #0e5b29;">
 [We teach you the way to code](https://code-sudan.github.io/home/)
 
 
@@ -13,4 +12,3 @@
 * [Week 6](https://code-sudan.github.io/home/week6/)
 * [Week 7](https://code-sudan.github.io/home/week7/)
 * [Week 8](https://code-sudan.github.io/home/week8/)
-</div>
