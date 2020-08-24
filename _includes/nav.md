@@ -1,8 +1,9 @@
+<div style="background-color: #0e5b29;">
 [We teach you the way to code](https://code-sudan.github.io/home/)
 
 
 ***
-<div style="background-color: #0e5b29;">
+
 * [Week 0](https://code-sudan.github.io/home/week0/)
 * [Week 1](https://code-sudan.github.io/home/week1/)
 * [Week 2](https://code-sudan.github.io/home/week2/)
