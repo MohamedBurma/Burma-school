@@ -28,13 +28,9 @@ title: week 0
 
 **What to Do**
 
- 1. Download and install the latest version of [Chrome](https://google.com), if you don’t have it already.
- 2. Implement your very own Scratch project using Chrome, per this specification.
+ 1. Download and install the latest version of [Chrome](https://www.google.com/chrome/), if you don’t have it already.
+ 2. Implement your very own Scratch project using Chrome, per this [specification](https://cs50.harvard.edu/x/2020/psets/0/scratch).
 
-**When to Do It**
+**Try it in Arabic**
 
-By 11:59pm on 31 December 2020.
-
-**Advice**
-
-Here are David’s examples from lecture if you’d like to review! To see the source code of each, click See inside.
+[Problem Set 0 In Arabic](https://www.youtube.com/embed/3Occxs_Uc-w)
