@@ -3,5 +3,4 @@
 
 2020
 
-![Code_ Sudan logo](Code_-removebg-preview.png "Logo")
-
+![Code_ Sudan logo](./Code_-removebg-preview.png)
