@@ -6,8 +6,9 @@ title: week 0
 
 <iframe src="https://www.youtube.com/embed/jjqgP9dpD1k"></iframe>
 
+# Lecture 0
 
-    Welcome
+    _Welcome_
     What is computer science?
     Binary
     Representing data
