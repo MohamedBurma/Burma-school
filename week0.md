@@ -8,13 +8,13 @@ title: week 0
 
 # Lecture 0
 
-    _Welcome_
-    What is computer science?
-    Binary
-    Representing data
-    Algorithms
-    Pseudocode
-    Scratch
+    1.Welcome
+    2.What is computer science?
+    3.Binary
+    4.Representing data
+    5.Algorithms
+    6.Pseudocode
+    7.Scratch
 
 
 # Proplem set 0
