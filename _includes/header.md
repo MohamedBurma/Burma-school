@@ -3,4 +3,4 @@
 
 2020
 
-![Code_ Sudan logo](./Code_-removebg-preview.png)
+![CodeSudan Logo](/images/icon1.png)
