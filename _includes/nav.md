@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/code-sudan/home/tree/master/assets/css/front.css" />
+
 [We teach you the way to code](https://code-sudan.github.io/home/)
 
 
