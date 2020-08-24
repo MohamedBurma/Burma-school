@@ -39,3 +39,10 @@ For this problem set, you’ll use CS50 IDE, a cloud-based programming environme
        .[Credit](https://cs50.harvard.edu/x/2020/psets/1/credit) if feeling more comfortable
         
 If you submit both Marios, we’ll record the higher of your two scores. If you submit both of Cash and Credit, we’ll record the higher of your two scores.
+
+
+**Try it in Arabic**
+
+* [Week 1 - Pset 1 - Introduction and Hello](https://www.youtube.com/embed/PlXUYylfwKg)
+* [Week 1 - Pset 1 - Mario](https://www.youtube.com/embed/V7C7LEJ_TrI)
+* [Week 1 - Pset 1 - Cash and Credit](https://www.youtube.com/embed/ob7b-IfmPDc)
