@@ -2,5 +2,7 @@
 
 # [Code_Sudan]({{ "/" | relative_url }})
 
-2020
+<a href="https://cs.harvard.edu/malan/">David J. Malan</a>
+
+<a href="https://www.facebook.com/dmalan" class="mr-2"><i class="fab fa-facebook-f"></i></a>
 
