@@ -1,5 +1,3 @@
-<img src="./Code_-removebg-preview.png" alt="MarineGEO circle logo" style="height: 20px; width:20px;"/>
-
 [We teach you the way to code](https://code-sudan.github.io/home/)
 
 
