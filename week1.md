@@ -16,6 +16,13 @@ title: week 1
     6.Types, formats, operators
     7.Memory, imprecision, and overflow
 
+**Try it in Arabic**
+
+[CS50 2019 Lecture 2 Arrays مترجم بالعربي](https://www.youtube.com/embed/dOucn3BPfZ8)
+
+**Preview**
+
+[Week1 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
 
 # Proplem set 1
 For this problem set, you’ll use CS50 IDE, a cloud-based programming environment. This environment is similar to CS50 Sandbox and CS50 Lab, the programming environments that David discussed during lecture.
