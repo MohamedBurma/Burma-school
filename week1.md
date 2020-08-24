@@ -6,6 +6,17 @@ title: week 1
 
 <iframe src="https://www.youtube.com/embed/e9Eds2Rc_x8"></iframe>
 
+# Lecture 1
+
+    1.C
+    2.hello, world
+    3.Compilers
+    4.String
+    5.Scratch blocks in C
+    6.Types, formats, operators
+    7.Memory, imprecision, and overflow
+
+
 # Proplem set 1
 For this problem set, you’ll use CS50 IDE, a cloud-based programming environment. This environment is similar to CS50 Sandbox and CS50 Lab, the programming environments that David discussed during lecture.
 
@@ -22,19 +33,6 @@ For this problem set, you’ll use CS50 IDE, a cloud-based programming environme
         
 If you submit both Marios, we’ll record the higher of your two scores. If you submit both of Cash and Credit, we’ll record the higher of your two scores.
 
-**When to Do It**
 
-By 11:59pm on 31 December 2020.
 
-**Advice**
 
-  .Try out any of David’s programs from class via Week 1’s source code.
-  .If you see any errors when compiling your code with make, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try           asking help50 for help. For instance, if trying to compile hello, and 
-    
-    make hello
-    
-is yielding errors, try running
-
-    help50 make hello
-    
-instead!
