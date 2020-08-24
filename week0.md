@@ -6,6 +6,16 @@ title: week 0
 
 <iframe src="https://www.youtube.com/embed/jjqgP9dpD1k"></iframe>
 
+
+    Welcome
+    What is computer science?
+    Binary
+    Representing data
+    Algorithms
+    Pseudocode
+    Scratch
+
+
 # Proplem set 0
 
 **What to Do**
